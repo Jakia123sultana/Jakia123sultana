@@ -1,4 +1,5 @@
-![logo](https://github.com/Jakia123sultana/Jakia123sultana/blob/main/Banner.png)
+<img src="https://raw.githubusercontent.com/Jakia123sultana/Jakia123sultana/main/Banner.png" alt="logo" height="100" />
+
 
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
