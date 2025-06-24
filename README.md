@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Jakia123sultana/Jakia123sultana/main/logo.png)
+![logo](https://github.com/Jakia123sultana/Jakia123sultana/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
