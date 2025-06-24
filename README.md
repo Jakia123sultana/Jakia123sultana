@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Jakia123sultana/Jakia123sultana/main/Banner.png" alt="logo" height="300" weight="8000" />
+<img src="https://raw.githubusercontent.com/Jakia123sultana/Jakia123sultana/main/Banner.png" alt="logo" height="300" width="100%" />
+
 
 
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
