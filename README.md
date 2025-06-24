@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400: src="https://i.ibb.co/pq2zrvK/github.jpg"
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/pq2zrvK/github.jpg" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakia123sultana&label=Profile%20views&color=0e75b6&style=flat" alt="jakia123sultana" /> </p>
 
 - 🔭 I’m currently working on **Parcel Delivery & Tracking Platform**
