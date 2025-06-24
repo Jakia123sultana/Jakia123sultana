@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400: src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding%2Fattachments%2F2413754%3Fmode%3Dmedia&psig=AOvVaw0RaugW699jplaN2VWPUWy0&ust=1750876958942000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDo_bXbio4DFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" width="400: src="https://i.ibb.co/pq2zrvK/github.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakia123sultana&label=Profile%20views&color=0e75b6&style=flat" alt="jakia123sultana" /> </p>
 
 - 🔭 I’m currently working on **Parcel Delivery & Tracking Platform**
