@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Jakia123sultana/Jakia123sultana/main/Banner.png" alt="logo" height="300" width="100%" />
+<img src="https://raw.githubusercontent.com/Jakia123sultana/Jakia123sultana/main/Banner.png" alt="logo" height="500" width="100%" />
 
 
 
