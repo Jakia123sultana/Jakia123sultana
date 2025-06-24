@@ -51,17 +51,3 @@ I'm a frontend developer focused on building performant, user-friendly web appli
 
 ---
 
-### Pinned Repositories
-
-#### 1. [Parcel Delivery & Tracking Platform](https://github.com/jakia123sultana/parcel-delivery)
-**Overview:** A comprehensive parcel delivery system with real-time tracking and management features.  
-**Tech stack:** React, Node.js, Express, MongoDB, TailwindCSS  
-**Live Demo:** [parcel.example.com](https://parcel.example.com)  
-**Key Features:** User authentication, parcel tracking, delivery status updates, admin dashboard.  
-**Dependencies:** react, express, mongoose, axios, tailwindcss  
-**Setup:**  
-```bash
-git clone https://github.com/jakia123sultana/parcel-delivery.git
-cd parcel-delivery
-npm install
-npm start
