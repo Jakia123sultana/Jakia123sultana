@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/aa26d0ad-0f3f-4cb1-9d6a-8ca965534972)
+<img src="https://raw.githubusercontent.com/Jakia123sultana/Jakia123sultana/main/Banner.png" alt="logo" width="1200" height="400" />
 
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
