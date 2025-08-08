@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakia123sultana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-### About Me
-I'm a frontend developer focused on building performant, user-friendly web applications.  
-- 🔭 Currently working on **Parcel Delivery & Tracking Platform**  
-- 🌱 Learning **React, Node.js, Express**  
-- 👯 Looking to collaborate on **Online Job Portal projects**  
-- 💬 Ask me about **React, JavaScript**  
-- 📫 Reach me at **jakiasultanaania@gmail.com**  
-- 📍 Based in **Chittagong, Bangladesh**  
-- ⚡ Fun fact: I think I am funny 😄  
+### About Me  
+I am a frontend developer passionate about creating fast, user-friendly web applications. I enjoy learning modern technologies and continuously improving my skills. I am based in Chittagong, Bangladesh, and love solving problems with clean, efficient code.
+
+### Current Activities  
+- Exploring **React**, **Node.js**, and **Express** to build full-stack applications.  
+- Working on a **Local Food Waste Reduction Platform** to help reduce food waste through technology.  
+- Collaborating on **Online Job Portal projects** to gain team development experience.  
+- Learning about **Next.js** to expand my knowledge in React frameworks.
+ 
 
 ### Skills
 <p>
