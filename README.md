@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/gFDfh1Mn/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="logo" width="1200" height="400" />
+<img src="https://i.ibb.co.com/5hWyV5Kw/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-1.png" alt="logo" width="1200" height="400" />
 
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
