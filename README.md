@@ -47,7 +47,7 @@ Here are some of the technologies I work with:
 Feel free to connect with me on these platforms:
 
 <p>
-  <a href="https://linkedin.com/in/jakia-sultana-2b04102b0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jakia-sultana-ania/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/jakia123sultana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="mailto:jakiasultanaania@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
 </p>
