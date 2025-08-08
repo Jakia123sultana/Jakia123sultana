@@ -52,7 +52,7 @@ Feel free to connect with me on these platforms:
   <a href="mailto:jakiasultanaania@gmail.com" style="margin-right: 25px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" width="60" height="60" />
   </a>
-</a>
+
 
   <a href="mailto:jakiasultanaania@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
 </p>
