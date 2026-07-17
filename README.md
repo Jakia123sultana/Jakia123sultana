@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 
-<h3 align="center">
-🇧🇩 Full-Stack Developer | CSE Student at University of Chittagong
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=🇧🇩+BD+Full-Stack+Developer;🎓+CSE+Student+at+University+of+Chittagong" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;CSE+Student+at+University+of+Chittagong;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express.js+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Prisma;Open+Source+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing Animation"/>
