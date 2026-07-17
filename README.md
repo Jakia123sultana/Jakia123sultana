@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=🇧🇩+BD+Full-Stack+Developer;🎓+CSE+Student+at+University+of+Chittagong" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=BD+Full-Stack+Developer;CSE+Student+at+University+of+Chittagong" />
 </p>
 
 <p align="center">
