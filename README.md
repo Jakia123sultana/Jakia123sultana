@@ -71,50 +71,46 @@ Here are some of the technologies I work with:
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="45"/>
 </p>
 
-### Connect with Me  
-Feel free to connect with me on these platforms:
+<h3 align="left">🌐 Connect with Me</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/jakia-sultana-ania">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/jakia-sultana-ania" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/jakia123sultana">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://github.com/jakia123sultana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:jakiasultanaania@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:jakiasultanaania@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left"> Programming Languages</h3>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="34" height="34"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="34" height="34"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="34" height="34"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="34" height="34"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="34" height="34"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34"/>
   </a>
 </p>
-
-
