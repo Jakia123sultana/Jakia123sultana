@@ -6,71 +6,70 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=BD+Full-Stack+Developer;CSE+Student+at+University+of+Chittagong" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;CSE+Student+at+University+of+Chittagong;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express.js+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Prisma;Open+Source+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing Animation"/>
-</p>
-
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakia123sultana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 ### About Me  
-I am a frontend developer passionate about creating fast, user-friendly web applications. I enjoy learning modern technologies and continuously improving my skills. I am based in Chittagong, Bangladesh, and love solving problems with clean, efficient code.
+I'm a passionate **Full-Stack Developer** from Chattogram, Bangladesh, with experience building modern, scalable web applications using **Next.js, React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, and MongoDB**. I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning new technologies to improve my development skills.
 
-### Current Activities  
-- Exploring **React**, **Node.js**, and **Express** to build full-stack applications.  
-- Working on a **Local Food Waste Reduction Platform** to help reduce food waste through technology.  
-- Collaborating on **Online Job Portal projects** to gain team development experience.  
-- Learning about **Next.js** to expand my knowledge in React frameworks.
- 
+##  Current Activities
+
+-  Building **SkillBridge**, a full-stack tutor booking platform with Next.js, Prisma, PostgreSQL, Better Auth, and Stripe.
+-  Currently learning **Go (Golang)**, **System Design**, **Cloud Technologies**, and **Socket.IO**.
+-  Developing secure RESTful APIs using **Node.js**, **Express.js**, and **Prisma ORM**.
+-  Exploring **Better Auth**, **JWT**, **Google OAuth**, and **Email Verification**.
+-  Continuously improving my skills in **Full-Stack Development** and building scalable web applications.
 
 ### Skills  
 Here are some of the technologies I work with:
+###  Frontend
 
-### 🎨 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45"/>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="60" height="60"/>
+###  Backend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45"/>
 </p>
 
-### 🗄️ Database & ORM
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma ORM" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/>
+### Database & ORM
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="45"/>
 </p>
 
-### 🔐 Authentication & Payments
-<p>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Better%20Auth-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20OAuth-EA4335?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+###  Authentication & Payments
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>&nbsp;
+  <img src="https://img.shields.io/badge/Better%20Auth-blue?style=flat-square"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google%20OAuth-EA4335?style=flat-square&logo=google&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="60" height="60"/>
-</p>
+###  Tools
 
----
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="45"/>
+</p>
 
 ### Connect with Me  
 Feel free to connect with me on these platforms:
