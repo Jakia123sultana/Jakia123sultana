@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 
 <h3 align="center">
-A Passionate Full-Stack Developer from Bangladesh 🇧🇩
+🇧🇩 Full-Stack Developer | CSE Student at University of Chittagong
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=💻+Full-Stack+Developer;🎓+CSE+Student+at+University+of+Chittagong;⚛️+Next.js+•+React+•+TypeScript;🚀+Node.js+•+Express.js+•+Go;🗄️+PostgreSQL+•+MongoDB+•+Prisma;✨+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;CSE+Student+at+University+of+Chittagong;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express.js+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Prisma;Open+Source+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing Animation"/>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
