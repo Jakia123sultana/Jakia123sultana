@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/5hWyV5Kw/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-1.png" alt="logo" width="1200" height="400" />
+<img src="https://i.ibb.co.com/YFV4S71C/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-2.png" alt="logo" width="1200" height="400" />
 
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
 
